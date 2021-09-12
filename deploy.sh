@@ -5,7 +5,8 @@ git push -u origin master
 
 hugo
 cd public
+git pull
 git add .
 git commit -m "Build website"
-git push --force
+git push
 cd ..
