@@ -69,6 +69,6 @@ email: "hauten.lee@gmail.com"
 highlight_name: true
 ---
 
-I will introduce myself later
+I will introduce myself later, can I?
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
