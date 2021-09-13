@@ -45,15 +45,21 @@ social:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar #graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=KP63n9sAAAAJ
+- icon: doi
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2589-0543
 - icon: github
   icon_pack: fab
   link: https://github.com/htlee6
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/hautenlee
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/HauTen_Lee
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,6 +75,8 @@ email: "hauten.lee@gmail.com"
 highlight_name: true
 ---
 
-I will introduce myself later, can I?
+I am currently a graduate student in System Science at Beijing Normal University and a member of [BrainAIR](http://www.brainair.cn) Lab, advised by [Prof. Bailu Si](https://sss.bnu.edu.cn/tabid/143/ArticleID/462/frtid/144/Default.aspx). Prior to that, I obtained my bachelor's degree in engineering from Beijing University of Posts and Telecommunications.
+
+FC Barcelona RULES!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
