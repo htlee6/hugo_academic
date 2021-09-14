@@ -75,7 +75,7 @@ email: "hauten.lee@gmail.com"
 highlight_name: true
 ---
 
-I am currently a graduate student in System Science at Beijing Normal University and a member of [BrainAIR](http://www.brainair.cn) Lab, advised by [Prof. Bailu Si](https://sss.bnu.edu.cn/tabid/143/ArticleID/462/frtid/144/Default.aspx). Prior to that, I obtained my bachelor's degree in engineering from Beijing University of Posts and Telecommunications.
+I am currently a graduate student in System Science at Beijing Normal University and a member of [BrainAIR](http://www.brainair.cn) Lab, advised by [Prof. Bailu Si](https://sss.bnu.edu.cn/tabid/143/ArticleID/462/frtid/144/Default.aspx). Prior to that, I obtained my bachelor's degree of engineering from Beijing University of Posts and Telecommunications.
 
 FC Barcelona RULES!
 
