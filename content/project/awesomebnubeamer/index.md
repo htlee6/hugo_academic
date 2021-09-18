@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/htlee6/awesomeBNUbEAMer-1"
+url_code: "https://github.com/htlee6/awesomeBNUbEAMer"
 url_pdf: ""
 url_slides: ""
 url_video: ""
