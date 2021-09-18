@@ -29,26 +29,28 @@ experience:
     location: Beijing
     date_start: '2021-06-01'
     date_end: '2021-09-01'
-    description: |2-
-        Major work included:
-        
-        * AlphaFold 2@DeepMind deep dive
-        * ADME(T) prediction
-        * Development related work
-  - title: Teaching Assistant
+    # description: |2-
+    #     Major work including:
+    #     * AlphaFold 2@DeepMind deep dive
+    #     * ADME(T) prediction
+    #     * Development related work
+  - title: Teaching Assistant @Computational Neuroscience & Brain-Inspired AI
     company: Beijing Normal University
     location: Beijing
     date_start: '2021-02-01'
     date_end: '2021-07-01'
+    # description: Intro level course for bachelor students
         
-  - title: Working Student
+  - title: Working Student (Data Process & Analysis)
     company: BMW China
     company_url: ''
     company_logo: 
     location: Beijing
     date_start: '2019-10-01'
     date_end: '2020-01-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    # description: |2- 
+    #   * Data process and analysis
+    #   * Team communication and co
 
 design:
   columns: '2'

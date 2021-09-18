@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:hauten.lee@gmail.com
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -76,6 +76,8 @@ highlight_name: true
 ---
 
 I am currently a graduate student in System Science at Beijing Normal University and a member of [BrainAIR](http://www.brainair.cn) Lab, advised by [Prof. Bailu Si](https://sss.bnu.edu.cn/tabid/143/ArticleID/462/frtid/144/Default.aspx). Prior to that, I obtained my bachelor's degree of engineering from Beijing University of Posts and Telecommunications.
+
+My Asian name 李昊天, is sometimes interpreted as 'Haotian Li' as well.
 
 FC Barcelona RULES!
 

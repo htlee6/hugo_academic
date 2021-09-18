@@ -59,9 +59,9 @@ email: hauten.lee@gmail.com
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -77,7 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+  - python
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -100,7 +101,7 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
@@ -121,7 +122,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     post: true
     book: true
@@ -129,7 +130,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'htlee6'
     show_count: true
   commento:
     url: ''
