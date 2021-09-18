@@ -14,12 +14,13 @@ organizations:
   url: https://english.bnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Graph Machine Learning
-- ...
+- Machine Learning
+- Graph & Network
+- . . .
 
 # Education to show in About widget
 education:
@@ -77,7 +78,7 @@ highlight_name: true
 
 I am currently a graduate student in System Science at Beijing Normal University and a member of [BrainAIR](http://www.brainair.cn) Lab, advised by [Prof. Bailu Si](https://sss.bnu.edu.cn/tabid/143/ArticleID/462/frtid/144/Default.aspx). Prior to that, I obtained my bachelor's degree of engineering from Beijing University of Posts and Telecommunications.
 
-My Asian name 李昊天, is sometimes interpreted as 'Haotian Li' as well.
+My Asian name 李昊天, where 李(Lee) is my family name, and 昊(Hau) 天(Ten), two individual characters as a whole, is my given name. It is sometimes interpreted as 'Haotian Li' as well.
 
 FC Barcelona RULES!
 

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 21
 
-title: Projects
+title: Open Projects
 subtitle: ''
 
 content:
@@ -30,7 +30,7 @@ content:
   - name: Deep Learning
     tag: Deep Learning
   - name: Other
-    tag: Demo
+    tag: LaTeX
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

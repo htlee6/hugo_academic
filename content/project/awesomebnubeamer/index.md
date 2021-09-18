@@ -1,15 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Awesomebnubeamer"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "awesomeBNUbEAMer"
+summary: "A beamer template styled with BNU."
+authors: [admin]
+tags: 
+- LaTeX
+# categories: []
 date: 2021-09-18T12:55:21+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://htlee.net/awesomeBNUbEAMer/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/htlee6/awesomeBNUbEAMer-1"
 url_pdf: ""
 url_slides: ""
 url_video: ""
