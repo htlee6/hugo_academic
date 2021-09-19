@@ -33,7 +33,7 @@ authors:
 
 tags:
 - Academic
-- 开源
+
 
 categories:
 - Demo
