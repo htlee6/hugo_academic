@@ -20,7 +20,7 @@ bio:
 interests:
 - Machine Learning
 - Graph & Network
-- . . .
+- ...
 
 # Education to show in About widget
 education:
@@ -82,4 +82,4 @@ My Asian name 李昊天, where 李(Lee) is my family name, and 昊(Hau) 天(Ten)
 
 FC Barcelona RULES!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="bell" pack="fas" >}} Check my CV {{< staticref "uploads/cv.pdf" "newtab" >}}here{{< /staticref >}}.
