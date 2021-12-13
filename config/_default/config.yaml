@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: HauTen Lee # Website name
+title: Haotian Li # Website name
 baseurl: 'https://htlee6.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
