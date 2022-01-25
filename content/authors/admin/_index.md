@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Exchange Student in Computer Science
-    institution: Ludwig-Maximillians Universität München
+    institution: Ludwig-Maximillians-Universität München
     year: 2021-22
   - course: M.Sc in System Science
     institution: Beijing Normal University
@@ -76,7 +76,7 @@ email: "hauten.lee@gmail.com"
 highlight_name: true
 ---
 
-I am currently a graduate student in System Science at Beijing Normal University and a member of [BrainAIR](http://www.brainair.cn) Lab, advised by [Prof. Bailu Si](https://sss.bnu.edu.cn/tabid/143/ArticleID/462/frtid/144/Default.aspx). Prior to that, I obtained my bachelor's degree of engineering from Beijing University of Posts and Telecommunications.
+I am currently in my exchange year at Ludwig-Maximillians-Universität München, majoring Computer Science. At the same time I am also a graduate student in System Science at Beijing Normal University and a member of [BrainAIR](http://www.brainair.cn) Lab, advised by [Prof. Bailu Si](https://sss.bnu.edu.cn/tabid/143/ArticleID/462/frtid/144/Default.aspx). Prior to that, I obtained my bachelor's degree of engineering from Beijing University of Posts and Telecommunications.
 
 <!--My Asian name 李昊天, where 李(Lee) is my family name, and 昊(Hau) 天(Ten), two individual characters as a whole, is my given name, is sometimes interpreted as 'Haotian Li' as well.
 FC Barcelona RULES! -->
