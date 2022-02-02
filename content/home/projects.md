@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
+  - name: Research
+    tag: Deep Learning, Research
+  - name: Others
     tag: LaTeX
 
 design:

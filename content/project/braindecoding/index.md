@@ -1,16 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "awesomeBNUbEAMer"
-summary: "A beamer template styled with BNU."
-authors: [admin]
-tags: 
-- LaTeX
-# categories: []
-date: 2021-09-18T12:55:21+08:00
+title: "Brain Decoding Using Transfer Learning and GNNs"
+summary: "An interesting data-driven approach. Investigation and implementation."
+authors: [Haotian Li]
+tags: [Deep Learning, Research]
+categories: [Research/Brain Science]
+date: 2022-02-02T22:54:49+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://htlee6.github.io/awesomeBNUbEAMer/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/htlee6/awesomeBNUbEAMer"
+links: 
+-name: hi
+
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -40,3 +42,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+## Why is brain encoding interesting when talking about transfer learning and GNNs?
+
+## Related Work & Pipeline
+
+## Our Proposed Method
