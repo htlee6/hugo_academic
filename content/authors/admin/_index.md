@@ -57,7 +57,7 @@ social:
   link: https://github.com/htlee6
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/hautenlee
+  link: https://www.linkedin.com/htlee
 - icon: xing
   icon_pack: fab
   link: https://www.xing.com/profile/HauTen_Lee
