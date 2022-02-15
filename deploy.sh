@@ -8,5 +8,5 @@ cd public
 git pull
 git add .
 git commit -m "Build website"
-git push
+git push -f
 cd ..

@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Exchange Student in Computer Science
+  - course: Computer Science
     institution: Ludwig-Maximillians-Universität München
     year: 2021-22
   - course: M.Sc in System Science
@@ -46,21 +46,22 @@ social:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar #graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
+# Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KP63n9sAAAAJ
-- icon: doi
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-2589-0543
 - icon: github
   icon_pack: fab
   link: https://github.com/htlee6
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/htlee
-- icon: xing
-  icon_pack: fab
-  link: https://www.xing.com/profile/HauTen_Lee
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2589-0543
+# - icon: xing
+#   icon_pack: fab
+#   link: https://www.xing.com/profile/HauTen_Lee
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
