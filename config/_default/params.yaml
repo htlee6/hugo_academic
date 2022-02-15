@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -77,7 +77,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -95,12 +95,12 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
@@ -121,7 +121,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     post: true
     book: true
@@ -129,7 +129,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'htlee6'
     show_count: true
   commento:
     url: ''
