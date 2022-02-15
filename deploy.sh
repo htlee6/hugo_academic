@@ -1,7 +1,7 @@
 #!/bin/bash
 git add .
 git commit -m "Initial commit"
-git push -u origin master
+git push -u origin master -f
 
 hugo
 cd public
