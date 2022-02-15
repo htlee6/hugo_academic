@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:hauten.lee@gmail.com
+  link: mailto:hauten.lee@mail.bnu.edu.cn
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

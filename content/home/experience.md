@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Machine Learning Engineer Intern
-    company: StoneWise AI Ltd.
+    company: StoneWise AI Ltd., focusing on high-quality AI drive novel drug discovery
     company_url: ''
     company_logo: 
     location: Beijing
@@ -34,7 +34,7 @@ experience:
     #     * AlphaFold 2@DeepMind deep dive
     #     * ADME(T) prediction
     #     * Development related work
-  - title: Teaching Assistant @Computational Neuroscience & Brain-Inspired AI
+  - title: Teaching Assistant Computational Neuroscience & Brain-Inspired AI
     company: Beijing Normal University
     location: Beijing
     date_start: '2021-02-01'
