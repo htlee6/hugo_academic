@@ -69,7 +69,7 @@ Previous work<sup>[1-3]</sup> has proved GNN is a promising technique and how th
 
 ### Datasets
 
-[Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult/document/1200-subjects-data-release) dataset and [Individual Brain Charting (IBC)](https://openneuro.org/datasets/ds000244/versions/1.0.0) dataset containing similar human cognitive subject will be used in our experiments.
+[Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult/document/1200-subjects-data-release) dataset and [Individual Brain Charting (IBC)](https://openneuro.org/datasets/ds000244/versions/1.0.0) dataset containing similar human cognitive subjects will be used in our experiments.
 
 ### Experiments and Results
 
