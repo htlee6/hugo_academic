@@ -42,7 +42,7 @@ categories:
 
 ### What is neural decoding?
 
-A human brain can be considered as a encoder-decoder architecture in terms of its interaction with the environment. For the encoding model part, a human brain can predict how the brain encodes one's perceptions (visual, auditory, motor, and etc.) into the brain response. While the decoding model part should give reasonable predictions on one's perception given the response/activity of the brain. 
+A human brain can be considered as a encoder-decoder architecture in terms of its interaction with the environment. For the encoding model part, it predicts how the brain encodes one's perceptions (visual, auditory, motor, and etc.) into the brain response. While the decoding model part should give reasonable predictions on one's perception given the response/activity of the brain. 
 
 <figure>
   <img src="https://www.researchgate.net/profile/Gael-Varoquaux/publication/268794316/figure/fig1/AS:282616113713184@1444392340570/Schematics-of-the-distinction-between-encoding-and-decoding-in-brain-imaging_W640.jpg" width="300px" height="auto"/>
