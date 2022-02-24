@@ -20,6 +20,7 @@ bio:
 interests:
 - Machine Learning
 - Graph & Network
+- Neuroscience
 - ...
 
 # Education to show in About widget
