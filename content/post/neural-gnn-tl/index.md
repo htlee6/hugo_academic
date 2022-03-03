@@ -42,7 +42,7 @@ categories:
 
 ### What is neural decoding?
 
-A human brain can be considered as a encoder-decoder architecture in terms of its interaction with the environment. For the encoding model part, it predicts how the brain encodes one's perceptions (visual, auditory, motor, and etc.) into the brain response. While the decoding model part should give reasonable predictions on one's perception given the response/activity of the brain. 
+A human brain can be considered as an encoder-decoder architecture in terms of its interaction with the environment. For the encoding model part, it predicts how the brain encodes one's perceptions (visual, auditory, motor, and etc.) into the brain response. While the decoding model part should give reasonable predictions on one's perception given the response/activity of the brain.
 
 <figure>
   <img src="https://www.researchgate.net/profile/Gael-Varoquaux/publication/268794316/figure/fig1/AS:282616113713184@1444392340570/Schematics-of-the-distinction-between-encoding-and-decoding-in-brain-imaging_W640.jpg" width="300px" height="auto"/>
@@ -51,21 +51,21 @@ A human brain can be considered as a encoder-decoder architecture in terms of it
   </figcaption>
 </>
 
-In our work, we try to prove that using novel graph neural network (GNN) architecture and transfer learning (TL) to model the decoding is a better idea. In addition, we would also like to 
+In our work, we try to prove that using novel graph neural network (GNN) architecture and transfer learning (TL) to model the decoding is a better idea. In addition, we would also like to analyze the characterize the brain's activity using the intermediate representation of the neural network.
 
 ### Graph Neural Network: Designed for Network Data
 
-A human brain consists of many regions. Some of them may co-work to finish some task. To characterize the functionality of the brain, researchers conceptualized the "Brain Atlas", which clusters the regions of brain depending on the function it involved. It introduces a topological relation among all the regions of the brain. If we denote a cluster of regions of a brain as a node $n$ where $n \in N$, and the functional relation between 2 regions as an edge $e$ where $e\in E$. Thus, the brain can be denoted as a graph (or a network) $G$, where $G=\set{N, E}$.
+A human brain consists of many regions. Some of them may co-work to finish some task. To characterize the functionality of the brain, researchers conceptualized the "Brain Atlas", which clusters the regions of brain according to the function they are involved. That introduces a topological relation among all the regions of the brain. If we denote a cluster of regions of a brain as a node $n$ where $n \in N$, and the functional relation between two regions as an edge $e$ where $e\in E$. Thus, the brain can be denoted as a graph (or a network) $G$, where $G=\set{N, E}$.
 
-GNN is a deep learning module applied on graph data. With its ability to extract and utilize the information underlying the topology, it is now a promising part to finish a deep learning task on non-Euclidean data. As we illustrated above, the decoding model with GNN-based structure, may fully utilize a brain function atlas, with its essence of the graph structure.
+GNN is a deep learning module applied on graph data. With its ability to extract and utilize the information underlying the topology, it is now a promising part to perform a deep learning task on non-Euclidean data. As we illustrated above, the decoding model with GNN-based structure, may fully utilize a brain function atlas, given its essence of the graph structure.
 
-### Transfer Learning: Learn Like A Human Brain 
+### Transfer Learning: Learn Like A Human Brain with Machine Learning
 
-TL addresses the generalization ability of trained model, and so does one's brain. Usually, human brain learns how to finish a task on a given set of data and then have the ability to deal with unseen data. We expect our model can also behaves just like the human brain with better generalization ability on other datasets or even cross domain task.
+Transfer learning addresses the generalization ability of the trained model, and so does one's brain. Usually, human brain learns how to finish a task on a limited set of data and then have the ability to deal with unseen data. Inspired by that, we expect our model can also behaves just like the human brain with better generalization ability on other datasets or even cross domain task.
 
 ### Our Scope
 
-Previous work<sup>[1-3]</sup> has proved GNN is a promising technique and how the transfer learning process affect the learning of the model. Besides, the interpretability of the model is also explained in the BrainGNN work<sup>[1]</sup> in particular. Therefore, building on the success of these efforts, we would like to investigate a novel model's performance on simulating the neural decoding process and behavioral prediction. With transfer learning, even it is possible to generalize to perform cross domain tasks, such as brain disease prediction, which is more convincing that the model captures underlying representation of brain structure.
+Previous work<sup>[1-3]</sup> has proved GNN is a promising technique and how the transfer learning process affect the learning of the model. Besides, the interpretability of the model is also explained in the BrainGNN work<sup>[1]</sup> in particular. Therefore, building on the success of these efforts, we would like to investigate a novel GNN- & transfer-learning-based machine learning framework performance on simulating the neural decoding process and behavioral prediction. With transfer learning, even it is possible to generalize to perform cross domain tasks, such as brain disease prediction, which is more convincing that the model captures underlying representation of brain structure.
 
 ### Datasets
 
